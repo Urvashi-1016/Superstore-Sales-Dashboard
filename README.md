@@ -37,6 +37,9 @@ and Slicers, allowing users to analyze sales performance from different perspect
 * Dataset
 - Sample Superstore Dataset
 
+* Dashboard Preview
+![Dashboard Screenshot](Dashboard%20Screenshot.png)
+
 * Learning Outcomes
 - Data Cleaning
 - Data Analysis
