@@ -1,23 +1,27 @@
 # Superstore Sales Dashboard
 
-* Project Overview
+## Project Overview
+
 This project is an interactive Sales Dashboard developed in Microsoft Excel using the Sample Superstore dataset. The dashboard provides business insights through Pivot Tables, Pivot Charts, KPI Cards,
 and Slicers, allowing users to analyze sales performance from different perspectives.
 
-* Objectives
+## Objectives
+
 - Analyze overall sales performance.
 - Compare sales across categories and regions.
 - Identify the top-performing states and cities.
 - Analyze profit based on discount levels.
 - Create an interactive dashboard using slicers.
 
-*Dashboard KPIs
+## Dashboard KPIs
+
 -  Total Sales
 -  Total Profit
 -  Total Quantity
 -  Average Discount
 
-* Dashboard Features
+## Dashboard Features
+
 - Sales by Category
 - Profit by Region
 - Sales by Segment
@@ -26,7 +30,8 @@ and Slicers, allowing users to analyze sales performance from different perspect
 - Discount vs Profit Analysis
 - Interactive Slicers (Region, Segment, Category)
 
-* Tools Used
+## Tools Used
+
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
@@ -34,19 +39,23 @@ and Slicers, allowing users to analyze sales performance from different perspect
 - GETPIVOTDATA Formula
 - Conditional Formatting
 
-* Dataset
+## Dataset
+
 - Sample Superstore Dataset
 
-* Dashboard Preview
+## Dashboard Preview
+
 ![Dashboard Screenshot](Dashboard%20Screenshot.png)
 
-* Learning Outcomes
+## Learning Outcomes
+
 - Data Cleaning
 - Data Analysis
 - Dashboard Design
 - Business Intelligence
 - Interactive Reporting using Excel
 
-*Author
+##Author
+
 **Urvashi Suthar**
 BCA Student | Aspiring Data Analyst
