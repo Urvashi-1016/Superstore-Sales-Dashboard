@@ -55,7 +55,7 @@ and Slicers, allowing users to analyze sales performance from different perspect
 - Business Intelligence
 - Interactive Reporting using Excel
 
-##Author
+## Author
 
 **Urvashi Suthar**
 BCA Student | Aspiring Data Analyst
